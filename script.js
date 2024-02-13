@@ -45,19 +45,3 @@ window.addEventListener("keydown", (e) => {
       break;
   }
 });
-
-//
-
-//
-
-//
-
-//
-
-//
-
-// const left = (Event.key = "enter")
-
-// ghost.addEventListener("keydown", (e) => {
-// ghost.style.left X + "px"
-// })
